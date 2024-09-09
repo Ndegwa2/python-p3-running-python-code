@@ -1,3 +1,2 @@
-print("Hello fellas!")
-print("I just landed here")
-print("I like you brembos")
+print("Hello World! Pass this test, please.")
+
